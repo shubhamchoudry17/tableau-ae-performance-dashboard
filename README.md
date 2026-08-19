@@ -1,5 +1,7 @@
 # A&E Performance Dashboard — Tableau
 
+> MSc Data Science graduate passionate about turning raw data into actionable business insights. This project demonstrates my end-to-end analytics workflow using Tableau.
+
 An interactive Tableau dashboard analysing **16,000 Accident & Emergency (A&E) attendances** across **2022–2024** for an NHS Trust.
 
 The project was developed as a Tableau data analytics capstone, with the objective of transforming A&E attendance data into a clear, interactive dashboard that can support operational decision-making around demand, staffing, patient urgency and patient outcomes.
@@ -139,3 +141,12 @@ Potential extensions to the dashboard could include:
 
 This project was completed as part of a Tableau data analytics capstone project. The original brief required five visualisations to be assembled into one professional, interactive A&E Performance dashboard, including a headline attendance figure and dashboard filters.
 
+## Author
+
+**Shubham Choudhary**
+MSc Data Science | Data Analyst | Open to Work [LinkedIn](https://www.linkedin.com/in/shubham-choudhary-b84484200/) · [Portfolio](https://github.com/shubhamchoudry17) · [Email](mailto:shubhamchoudry17@gmail.com)
+
+
+## 📄 Note
+
+Datasets used in this project are for training purposes only and do not represent real data.
