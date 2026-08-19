@@ -4,6 +4,8 @@ An interactive Tableau dashboard analysing **16,000 Accident & Emergency (A&E) a
 
 The project was developed as a Tableau data analytics capstone, with the objective of transforming A&E attendance data into a clear, interactive dashboard that can support operational decision-making around demand, staffing, patient urgency and patient outcomes.
 
+![A&E Performance Dashboard](images/ae-performance-dashboard.png)
+
 ## Project Overview
 
 A&E departments need to understand when demand is highest, what level of clinical urgency patients present with, and what happens to patients after their attendance.
